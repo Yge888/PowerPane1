@@ -1,0 +1,8 @@
+# OS
+Thumbs.db
+desktop.ini
+
+# IDE
+.vs/
+*.user
+*.suo
